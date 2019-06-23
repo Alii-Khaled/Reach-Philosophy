@@ -3,9 +3,11 @@ A Python script to reach "Philosophy" page from a given input wiki page link.
 
 ## Write the script as follows:
 python ReachPhilosophy.py
+
 this will make it use a random Wiki page.
 
 python ReachPhilosophy.py (Wikipage's link without parenthesis)
+
 this will try to reach "Philosophy" page strarting from that link, printing every visited wiki page.
 
 ## There are only 3 possible outcomes:
