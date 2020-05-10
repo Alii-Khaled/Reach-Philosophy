@@ -1,5 +1,6 @@
 # Reach-Philosophy
 A Python webscraping mini-project.
+
 Getting the 1st non-parenthesized, non-italicized link, in the main text of any Wikipedia article, and then repeating the process for subsequent articles, usually eventually get us to the Philosophy main article in Wikipedia.
 
 ## Write the script as follows:
